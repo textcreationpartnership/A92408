@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remedy for uncleanness. Or, Certain queries propounded to his Highness the Lord Protector. By a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92408</idno>
+            <idno type="STC">Wing R957</idno>
+            <idno type="STC">Thomason E948_3</idno>
+            <idno type="STC">ESTC R207562</idno>
+            <idno type="EEBO-CITATION">99866606</idno>
+            <idno type="PROQUEST">99866606</idno>
+            <idno type="VID">118883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118883)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 142:E948[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remedy for uncleanness. Or, Certain queries propounded to his Highness the Lord Protector. By a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>[4], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "June 14th"; June 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118883:1"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:118883:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>A REMEDY FOR Uncleanneſs.</p>
+            <p>OR, Certain Queries propounded to his Highneſs the Lord PROTECTOR.</p>
+            <p>
+               <hi>By a Perſon of quality.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1658.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:118883:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb facs="tcp:118883:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>To his HIGHNESS the LORD PROTECTOR.</head>
+            <opener>
+               <salute>MY LORD!</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am not able to divine what ſuggestions or thoughts of heart theſe Queries may raiſe in your Highneſs, which makes me for the preſent veile my face, and ſit down in expectation. I call Heaven and Earth to witneſs, no carnall end, or fleſhly reſpect excites me to Query, but an innocent and righteous deſign to promote the ruine and extirpation (by this conceived remedy) of thoſe impure and unnatu<g ref="char:EOLhyphen"/>rall abominations ſo frequently practis'd in your Famous City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and elſe where throughout the Nation. Whereof no probable cauſe, or ground can be aſſigned more proper, then a deniall of this ſuggeſted means to prevent them. What is it my Lord, but this rigid restraint and limitation that makes it matter of ſcorn and reproach to young gallants to marry, and come under the holy Ordinance of God: that foments thoſe domeſtick differences and contentions ſo frequently la<g ref="char:EOLhyphen"/>mented amongſt us, that makes almoſt every aſſize record the murder of many innocent children. Does not the blood of many thouſand infants cry againſt the rigour of thoſe laws? not permitting their Fathers to espouſe their Mothers, and legitimate them unto the world. Is it cre<g ref="char:EOLhyphen"/>dible, my Lord, that the note of infamy ſhould onely reſt upon Christen<g ref="char:EOLhyphen"/>dome? The whole Turkiſh Empire, if my intelligence and reading fail me not, where this means is uſed, doth not recount the death of ſo many innocents inhumanly deſtroyed by the cruell hands of their own parents, as <hi>England</hi> doth.</p>
+            <pb facs="tcp:118883:3"/>
+            <!-- PDF PAGE 81 -->
+            <p>May it ſuffice, my Lord, ſo far as it relates to your part, that the Chriſtian world hath been deprived ſo long already of her lawfull li<g ref="char:EOLhyphen"/>berty, by the interpoſall of Antichriſtian power; who according as 'twas propheſied of them have forbid to marry, which <hi>Luther</hi> the great father of Reformation bitterly inveighed againſt; though the reform<g ref="char:EOLhyphen"/>ed Churches have been ſo unhappy, as not to take the Alarm from him.</p>
+            <p>My Lord, I know cuſtome is not the miſtris of your actions; you have learn't to ſtand for Religion, equity, and reaſon, againſt mouldy Laws, and rotten Records; and given ample demonſtration that your Lordſhip is not of the number of thoſe ſlaviſh and ignoble ſpirited men, more ready to ſtoop down to every worm-eaten cuſtome, then to the pre<g ref="char:EOLhyphen"/>cept of reaſon and rule of righteouſneſs.</p>
+            <p>My Lord, the eyes of a conſiderable part of Chriſtendome are upon you: ſomething verily is expected from you that ſhall anſwer (not to disparage your own virtue) the miracle of your riſe and exaltation: no leſſe then the ruine of Turk or Pope, or ſomething of that grand con<g ref="char:EOLhyphen"/>cernment can give ſatisfaction. Reaſon and religion perſwades me it is but inclining to the queriſt and inveſting men (ſo far as your authority extends) with that right the law of nature and grace hath given them, and you ſhal need no other Ram to batter the walls of <hi>Rome</hi> and <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> and make the territories of the Reformed religion equally extenſive with them both.</p>
+            <p>It's well known, my Lord, nothing hath ſtretched the Turkiſh Em<g ref="char:EOLhyphen"/>pire to that breadth that now it is, ſo much as Polygamy; and if we have but an hiſtorical faith, your Lordſhip cannot be ignorant, that a conſi<g ref="char:EOLhyphen"/>derable Country upon this ſcore alone apoſtatized from chriſtian faith, and fell away to the Mahometan, preferring the liberty of the Alcho<g ref="char:EOLhyphen"/>ran before the now practiſed reſtraint of the Goſpell; though the large dominions of <hi>Preſter John</hi> do ſtill retain them both.</p>
+            <p>I ſhall not give your Lordſhip any further divertiſement, but humbly recommend the enſuing Queries to the grave conſideration of your moſt High perſon, and the gracious preſence of God be with you, and the wiſdom of Heaven direct you, is the unfeigned prayer. Of </p>
+            <closer>
+               <salute>MY LORD!</salute>
+               <signed>Your <hi>Highneſs,</hi> though unknown, yet moſt humble ſervant.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118883:3"/>
+            <!-- PDF PAGE 81 -->
+            <head>A REMEDY FOR Uncleanneſs.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S Temperance is accounted amongſt the Hea<g ref="char:EOLhyphen"/>thens a Cardinal virtue, ſo in ſacred writ a grace of the Spirit? a temperate man is one well compoſed in body and mind; one that is not exorbitant in his deſires, but in whom all things move as in their proper Sphere. He is as a river running within its banks; he is the lively image of his Creator, and in all his demands is as innocent as his mother the Earth, when ſhee craves the ſhowers to make her fruitfull; the abſtenious lives of the Patriarches, <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> are lively patterns of this virtue; who ſpent not their days upon Earth, like the men of this generation, in riot and exceſs, gluttony and drun<g ref="char:EOLhyphen"/>kenneſs; but by their ſobriety and abſtinence commended the holineſs of their lives, to the imitation of ſucceeding ages. What greater monſters in the world then thoſe whom intemperance hath made; they are as a people not of humane race or kind, acting in the purſuit of their ſenſual appetites beyond the bounds
+<pb n="2" facs="tcp:118883:4"/>
+               <!-- PDF PAGE 82 -->of common juſtice and honeſty. I have thought them like hunters, that ſcruple not the breaking down their neighbours fence, to purſue their own game. If temperance were more in credit a<g ref="char:EOLhyphen"/>mongſt men, I queſtion not the reduction of things to their primi<g ref="char:EOLhyphen"/>tive beauty, purity, and order. And that love and amity would then advance, and take the wall of hatred, revenge, and injury: What is the great incentive and provocation to uncleanneſs, and all thoſe abominations not to be named amongſt us, but that the bounds and limits for enjoying the creature ſet by this abſtenu<g ref="char:EOLhyphen"/>ous virtue, are paſſed over in-obſerved; and by their intempe<g ref="char:EOLhyphen"/>rance, riot, and exceſſe, impoſe a kind of neceſſity upon themſelvs of becoming ſinners and tranſgreſſors of the laws of holineſs.</p>
+            <p>Although temperance hath appeared in the firſt place, yet ſhal I proceed to the propoſall of ſome humble Queries appertaining to the diſcovery of another remedy beſides it: and the reaſon inducing me hereunto, is; that although a man be as temperate as in this life it is poſſible for him; yet may it not alone ſeem ſufficient for the good men. <hi>Abraham, Iſaac, Jacob, David,</hi> and <hi>Solomon,</hi> as temperate as the Earth had any, took Sanctuary at other means beſides it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Querie </seg>1</label> Whether it is not more then probable, that the Popiſh Clergy and the Church-men in all ages, have not been the onely obſtru<g ref="char:EOLhyphen"/>cters of Poligamy; becauſe the Holy Ghoſt hath thought meet to appoint their allowance (in conjunction with their own ſevere policy) to be but one, that they might the better intend the bu<g ref="char:EOLhyphen"/>ſineſs of the Church: how for thoſe that are and have been law<g ref="char:EOLhyphen"/>givers to Kings and Princes, and to all ſorts of men in Eccleſia<g ref="char:EOLhyphen"/>ſticks, as marriage they have made a part: for them I ſay to have but one, nay none at all according to their own unrighteous po<g ref="char:EOLhyphen"/>liticks, and to ſee others round about them permitted to have as many as they pleaſe, this they could not bear, and thefore intro<g ref="char:EOLhyphen"/>duced it as a common Law for all men to have but one.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether that Scripture 1 <hi>Tim.</hi> 3 2. [That a Biſhop be the huſ<g ref="char:EOLhyphen"/>band of one wife] doth not ſtrongly imply, that other men that are at liberty from Miniſteriall ingagements may have more, if they themſelves ſee cauſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Whether <hi>Paul's</hi> judgment in the caſe be binding to all ages and ſorts of men in that principal place <hi>[Let every man have his</hi>
+               <note place="margin">1 <hi>Cor.</hi> 7.2.</note>
+               <pb n="3" facs="tcp:118883:4"/>
+               <!-- PDF PAGE 82 -->
+               <hi>own wife]</hi> being onely ſpoken by permiſſion, and not by com<g ref="char:EOLhyphen"/>mandment at his own acknowledgment.</p>
+            <p>Whether <hi>Paul</hi>'s advice in the fore-mentioned place,<milestone type="tcpmilestone" unit="unspecified" n="4"/> did not ſolely relate to the preſent ſtate of Chriſts Church; the exigen<g ref="char:EOLhyphen"/>cy of things obliging them to think of marriage as little as may be. The bleſſed Apoſtle knowing that in their preſent poſture and future likely hood they were as Partridges upon the moun<g ref="char:EOLhyphen"/>tains, hunted by their bloody perſecutors: and therefore for Chriſtians to have as ſmall a retinue as could be was their wiſe<g ref="char:EOLhyphen"/>dom; and ſo it would be in all perſecuting times: but when God ſhall pleaſe to give them peace round about, and to permit them to ſit under their own Vines, and eat their own fruit, that they ſhould then continue in that ſtrait condition, or deny themſelves of that lawfull liberty made uſe of by others their predeceſſors in godlineſſe, if they themſelves ſee cauſe in the Querie.</p>
+            <p>Whether <hi>Paul</hi> in the New Teſtament,<milestone type="tcpmilestone" unit="unspecified" n="5"/> when he ſpeaks of a man having his wife in the ſingular number, means any more then God in the Tenth Commandment, <hi>Thou ſhalt not covet thy neighbours wife, &amp;c.</hi> that is to maintain propriety onely, that a man ſhould not deſire another mans, but might have more of his own if he pleaſed; otherwiſe it might be interpreted a ſin to have more houſes and oxen then one, they being both in the ſingular number as well as the wife.</p>
+            <p>Whether that muſt not needs be lawfull and imitable for us, which was practiſed by the Patriarches and Prophets of old, and no where reproved or diſanull'd by either Propher, Apoſtle, or Chriſt. For amongſt all the ſins and provocations of the Jewiſh nation, Polygamy is not ſo much as whiſpered: now to think the Lord Chriſt (who was faithfull in all things, and did not ſpare that nation above all others, whom he came to reclaim from all their ſin and wickedneſs) judged it a ſin, and yet not cenſure it in the leaſt, being ſo ſpreading and epidemical, is to make him unfaithful in the great concernments of his office.</p>
+            <p>Whether Polygamy carry with it any repugnancy to the rites,<milestone type="tcpmilestone" unit="unspecified" n="6"/> laws, and priviledges of nature, which God never gave to any the leaſt imperative or permiſſive diſpenſation to infringe; but in caſe of abſolute and unparalell'd neceſſity; or whether it be pro<g ref="char:EOLhyphen"/>bable
+<pb n="4" facs="tcp:118883:5"/>
+               <!-- PDF PAGE 83 -->there ſhould be any ſuperadded law in grace againſt that which is no ſin in nature.</p>
+            <p>Whether that which God himſelf ſignifies to be the fruit of his bounty and goodneſs,<milestone type="tcpmilestone" unit="unspecified" n="7"/> ought not to be entertain'd and thankfully received by men; the Querie is grounded upon that ſaying of God by <hi>Nathan</hi> to <hi>David,</hi> 2 <hi>Sam.</hi> 12.8. [<hi>and I gave thee thy maſters houſe, and thy maſters wives, and if that had been too little, &amp;c.</hi> Where God ſpeaks immediately by his Prophet of multiplicity of wives, not only by way of connivence and toleration, but as the iſſue of his goodneſs, and the expreſſeneſs of his will: this wrought up <hi>David</hi>'s ſin to the higheſt aggravation, to have to do with another man's, the Lord having allowed him ſo many wives of his own.</p>
+            <p>Whether a Concubine was a term of reproach in <hi>Iſrael,</hi> or in plain Engliſh a Whore: as ſome now no wiſer then needs muſt phraſe it. Firſt, becauſe then many of the Patriarchs, and ſons of other good men muſt needs prove illegitimate, and their pa<g ref="char:EOLhyphen"/>rents fall under the greateſt imputation: To paſſe this cenſure upon them, what were it but to beſmear the beautifull faces of the Fathers of the faithfull; and the moſt excellent ſervants of God, to take that Crown of glory from their heads which God hath ſet upon them, and lay it in the duſt.</p>
+            <p>Whether God hath not left the law of nature to it's own car<g ref="char:EOLhyphen"/>ving,<milestone type="tcpmilestone" unit="unspecified" n="8"/> and to be ſupplied according to its own wants, there being no particular rule appointed, aſſigning unto every individual perſon his juſt dimenſion of meat, drink, or apparrel; but every man is left to be a rule unto himſelf, according to his want and indigency; if hee exceeds in quantity or quality, at his own peril, hee ſhall bear his own burden; ſo in the caſe in hand, if he ſees it convenient, nay, neceſſary alſo: Who can forbid his deſires in this kind, or ſhal ſay unto nature, thus far thou ſhalt go and no further: or whether it be not hazardous that nature would break out in an unnaturall iſſue, when the common and natural way is denied her and obſtructed.</p>
+            <p>Whether that ordinary and common allegation that is ſo fre<g ref="char:EOLhyphen"/>quently made in defence of Monogamy,<milestone type="tcpmilestone" unit="unspecified" n="10"/> that God ſuffered Poly<g ref="char:EOLhyphen"/>gamy onely for a ſeaſon to repleniſh the world, have any thing in it: If it were <hi>malum in ſe,</hi> to receive the leaſt countenance from God; for the leaſt ſpace or tract of time, for ends how great ſoever
+<pb n="5" facs="tcp:118883:5"/>
+               <!-- PDF PAGE 83 -->were to tollerate evill that good might come of it, beſides the Land of <hi>Judea</hi> (even then when Polygamy was moſt in uſe) was as populous, for the like quantity and proportion of ground as any part of the world is at this day; witneſs that great ſight 'twixt <hi>Abijah</hi> and <hi>Jeroboam,</hi> 2 <hi>Chron.</hi> 13.17. where on <hi>Iſrael</hi>'s ſide there fell down five hundred thouſand choſen men.</p>
+            <p>Whether <hi>Luther,</hi> the Father of reformation,<milestone type="tcpmilestone" unit="unspecified" n="11"/> in his inveying againſt the Popiſh doctrine of forbidding marriage, did not coun<g ref="char:EOLhyphen"/>tenance Polygamy, poſitively affirming, that to have more wives then one was no where forbidden, neither did he forbid it, and that in caſe of the womans impotency or infirmity, he might lawful<g ref="char:EOLhyphen"/>ly take his handmaid.</p>
+            <p>Whether the Laws made in <hi>Queen Elizabeths</hi> time, and ſince touching adultery be juſt and rational, becauſe they make that adultery which God never made, <hi>viz.</hi> If a married man have carnal knowledge of a ſingle woman, and not onely ſo,<milestone type="tcpmilestone" unit="unspecified" n="12"/> but pu<g ref="char:EOLhyphen"/>niſh it with death; juſtifying their penal ſtatutes from the Law of <hi>Moſes,</hi> but refuſing and rejecting the remedies propounded by the Law, the Querie is made, Whether it were not equitable, before they inflict ſo ſevere puniſhment as is provided by our Laws in this caſe, to afford men the ſame means of prevention, as under the Legal diſpenſation was tollerated and allowed them.</p>
+            <p>Whether there be any thing material in that 19. of <hi>Matth.</hi> a<g ref="char:EOLhyphen"/>gainſt Polygamy: becauſe the queſtion is demanded of our Sa<g ref="char:EOLhyphen"/>viour out of deſign to enſnare him concerning divorce, a thing of a far different nature: whether then it can be ſuppoſed his an<g ref="char:EOLhyphen"/>ſwer concerning one thing ſhould be binding and effectuall to a<g ref="char:EOLhyphen"/>nother of a quite contrary ſubject: the ſaying it ſelf being fra<g ref="char:EOLhyphen"/>med and calculated by Chriſt, to reprove that readineſs and for<g ref="char:EOLhyphen"/>wardneſſe in the Jews to divorce upon every ſleight occaſion. And as cutting as this his anſwer ſeems to be to the Phariſees upon the demand of the Diſciples, our Saviour ſeems to be more favourable. For when they told him <hi>[If it be ſo, it is good not to marry]</hi> he replies, <hi>[That all men cannot receive this ſaying, but thoſe to whom it is given]</hi> ſo leaſt they ſhould ſtumble at marriage, he re<g ref="char:EOLhyphen"/>moves it out of their way by his mild and gentle anſwer: and in the next verſe, <hi>[He that is able to receive it, let him receive it]:</hi> Complying with that of Saint <hi>Paul, that one man hath one gift,
+<pb n="6" facs="tcp:118883:6"/>
+                  <!-- PDF PAGE 84 -->and another, another;</hi> leaving them in this at liberty as he found them, leaſt he ſhould ſeem to croſs nature, or infringe the Laws thereof, which he himſelf had made.</p>
+            <p>Whether to forbid plurality of wives under the Goſpel,<milestone type="tcpmilestone" unit="unspecified" n="14"/> be not highly derogatory, from the free and ſweet tenour thereof, and conſtructively and in effect to make the Legal and Moſaical di<g ref="char:EOLhyphen"/>ſpenſation (which neither we nor our Fathers were able to bear) more eaſie and tolerable then the Chriſtian and Evangelical; and to thwart that teſtimony given of it by our Saviour: <hi>That his Yoak was eaſie, and his burden light.</hi>
+            </p>
+            <p>Whether it may not ſtand with a gracious Spirit,<milestone type="tcpmilestone" unit="unspecified" n="15"/> and be every way conſiſtent with the principles of a man fearing God, and loving holineſſe, to have more women then one to his proper uſe and ſervice, becauſe it hath been at good accord and agreement, with the principles and practices of as godly, holy, righteous, and juſt men as ever the earth bare any, that were meerly men, and ſubject to the like infirmities that we are; or what is it that hath made the diverſification, that it ſhould not every way ſuit and comport with the nature and eſſence of purity and holineſs, in the preſent Saints and people of God, as wel as thoſe that walked with God before and after the flood.</p>
+            <p>Whether Polygamy by the ſtricteſt rules of reaſon and equity,<milestone type="tcpmilestone" unit="unspecified" n="16"/> can be judged any way obſtructive unto humane ſociety, and communication. Nay, whether it be not the faireſt accord and correſpondency therewith tending ſo much to the defence and preſervation of propriety: He that takes another mans Ox or Aſſe is doubtleſſe a tranſgreſſor; but he that puts himſelf out of the occaſion of that temptation, by keeping of his own, ſeems to be a right, honeſt, and well meaning man.</p>
+            <p>Whether that paſſage; <milestone type="tcpmilestone" unit="unspecified" n="17"/> 
+               <hi>[They two ſhall be one fleſh]</hi> have any thing in it conſiderable againſt Polygamy: or whether in the ſenſe of that Scripture, one man may not be one fleſh with two women: As in the body of Chriſt there are many members, yet but one body, by our Saviours own Logick. Why ſhould many wives with one husband be denied to be one fleſh, any more then the other; our Saviour himſelf alluding to marriage, to make good his argument in that kind.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118883:6"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </body>
+   </text>
+</TEI>
